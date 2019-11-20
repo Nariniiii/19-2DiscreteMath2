@@ -1,5 +1,5 @@
 # DiscreteMathematics HW2
-###21800001 Narin Kang
+21800001 Narin Kang
 ## How to build and execute?
 ### DNF Converter
 
